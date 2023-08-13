@@ -1,6 +1,6 @@
-# Silicon Maze CTF - Star Wars Cosmos
+# Silicon Maze CTF - Star Wars Cosmos - Question 10
 
-Welcome to the Silicon Maze CTF! This repository contains the backend and frontend code for the Star Wars Cosmos challenge.
+Flask as backend, Svelte as frontend, using SWAPI (The Star Wars API) for the content.
 
 ## Setup Instructions
 
