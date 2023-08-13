@@ -34,6 +34,8 @@ npm run dev
 ```
 
 ## Challenge Preview
-[![Challenge Preview Video](https://cdn.discordapp.com/attachments/1042632980537016411/1140254845580873780/preview.mp4)](https://cdn.discordapp.com/attachments/1042632980537016411/1140254845580873780/preview.mp4)
+https://github.com/rex69420/star-wars-cosmos-SiliconMazeCTF/assets/65942753/90726a40-1c72-4b58-9dea-7287f715e962
+
+
 
 May the force be with you!
